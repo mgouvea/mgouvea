@@ -3,11 +3,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Mateus Gouvêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgouvea&color=blue" alt="Profile views" /> </p>
 
-- 🔥 A semi senior web developer focused on always learning more
+- 🔥 A semi senior full stack developer focused on always learning more
 
 - 🔭 I’m currently working at [Cast Group](https://www.castgroup.com.br/pt/)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Node.JS**
+- 💬 Ask me about **React, React Native, TypeScript, Node.JS, Nest.Js**
 
 <br><br>
 
@@ -34,7 +34,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mgouvea&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mgouvea&show_icons=true&theme=vision-friendly-dark" alt="mgouvea's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgouvea&layout=compact&theme=vision-friendly-dark" alt="mgouvea's most languages"/>
 </p>
 
