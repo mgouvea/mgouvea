@@ -3,9 +3,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Mateus Gouvêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgouvea&color=blue" alt="Profile views" /> </p>
 
-- 🔥 A semi senior full stack developer focused on always learning more
+- 🔥 Senior full stack developer focused on always learning more
 
-- 🔭 I’m currently working at [Cast Group](https://www.castgroup.com.br/pt/)
+- 🔭 I’m currently working at [First Decision](https://www.firstdecision.com.br/)
 
 - 💬 Ask me about **React, React Native, TypeScript, Node.JS, Nest.Js**
 
