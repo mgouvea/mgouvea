@@ -46,9 +46,6 @@
 <a href="https://linkedin.com/in/mgouvea" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mgouvea-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/mgouvea_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mgouvea__-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 
 </p>
 
