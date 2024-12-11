@@ -5,7 +5,7 @@
 
 - 🔥 Senior full stack developer focused on always learning more
 
-- 🔭 I’m currently working at [First Decision](https://www.firstdecision.com.br/)
+- 🔭 I’m currently working at [Cast Group](https://www.castgroup.com.br/en/)
 
 - 💬 Ask me about **React, React Native, TypeScript, Node.JS, Nest.Js**
 
